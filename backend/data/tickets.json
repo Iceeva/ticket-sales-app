@@ -1,0 +1,45 @@
+[
+  {
+    "id": "tck_1",
+    "userId": "1",
+    "eventId": "evt_1",
+    "quantity": 2,
+    "totalPrice": 90,
+    "status": "confirmed",
+    "bookingDate": "2024-01-15T10:30:00.000Z",
+    "ticketCode": "TICKET-12345-ABC"
+  },
+  {
+    "id": "tck_76973c4b-bb61-46a3-bed6-74e2fed864c5",
+    "userId": "803d1398-9eb4-4b58-8f01-08d4c01a940d",
+    "eventId": "evt_1",
+    "quantity": 8,
+    "totalPrice": 360,
+    "ticketCode": "TICKET-1771457797509-Y66BUA",
+    "status": "confirmed",
+    "bookingDate": "2026-02-18T23:36:37.510Z",
+    "paymentStatus": "paid"
+  },
+  {
+    "id": "tck_9ad9eac2-8ad1-4cd3-8863-b82c780fcb9e",
+    "userId": "803d1398-9eb4-4b58-8f01-08d4c01a940d",
+    "eventId": "evt_1",
+    "quantity": 9,
+    "totalPrice": 405,
+    "ticketCode": "TICKET-1771457848181-BFPUPM",
+    "status": "confirmed",
+    "bookingDate": "2026-02-18T23:37:28.183Z",
+    "paymentStatus": "paid"
+  },
+  {
+    "id": "tck_a7290510-3dbb-4ac2-a177-b4ac81e2600e",
+    "userId": "803d1398-9eb4-4b58-8f01-08d4c01a940d",
+    "eventId": "evt_2",
+    "quantity": 50,
+    "totalPrice": 1750,
+    "ticketCode": "TICKET-1771457848373-2X2B54",
+    "status": "confirmed",
+    "bookingDate": "2026-02-18T23:37:28.373Z",
+    "paymentStatus": "paid"
+  }
+]
