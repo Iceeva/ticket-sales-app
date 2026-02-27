@@ -41,5 +41,27 @@
     "status": "confirmed",
     "bookingDate": "2026-02-18T23:37:28.373Z",
     "paymentStatus": "paid"
+  },
+  {
+    "id": "tck_76163b33-f5d1-41c1-8952-bbd43cb87b44",
+    "userId": "b93aa409-ea23-4437-b6c8-f9a1357da9ed",
+    "eventId": "evt_1",
+    "quantity": 4,
+    "totalPrice": 180,
+    "ticketCode": "TICKET-1772193784458-KHVCJH",
+    "status": "confirmed",
+    "bookingDate": "2026-02-27T12:03:04.460Z",
+    "paymentStatus": "paid"
+  },
+  {
+    "id": "tck_379759d0-1882-4e44-825d-69cfa3c67f0c",
+    "userId": "b93aa409-ea23-4437-b6c8-f9a1357da9ed",
+    "eventId": "evt_2",
+    "quantity": 1,
+    "totalPrice": 35,
+    "ticketCode": "TICKET-1772193806447-CL0EER",
+    "status": "confirmed",
+    "bookingDate": "2026-02-27T12:03:26.448Z",
+    "paymentStatus": "paid"
   }
 ]

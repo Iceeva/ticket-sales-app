@@ -14,5 +14,13 @@
     "name": "EVARICE",
     "role": "user",
     "createdAt": "2026-02-18T23:35:46.486Z"
+  },
+  {
+    "id": "b93aa409-ea23-4437-b6c8-f9a1357da9ed",
+    "email": "knPP@gmail.com",
+    "password": "$2a$10$rAX2NQu2nakYnQadhCo7nervqOSSI2TVrUn7kkcyYP7fK6nRdJdA2",
+    "name": "EVARICE8",
+    "role": "user",
+    "createdAt": "2026-02-27T12:02:52.221Z"
   }
 ]
